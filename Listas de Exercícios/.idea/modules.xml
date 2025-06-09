@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/01_exercicio/01_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/01_exercicio/01_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/02_exercicio/02_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/02_exercicio/02_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/03_exercicio/03_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/03_exercicio/03_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/04_exercicio/04_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/04_exercicio/04_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/05_exercicio/05_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/05_exercicio/05_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/06_exercicio/06_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/06_exercicio/06_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/07_exercicio/07_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/07_exercicio/07_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/08_exercicio/08_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/08_exercicio/08_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/09_exercicio/09_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/09_exercicio/09_exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/10_exercicio/10_exercicio.iml" filepath="$PROJECT_DIR$/LP_Lista_04/10_exercicio/10_exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Listas de Exercícios.iml" filepath="$PROJECT_DIR$/.idea/Listas de Exercícios.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP_Lista_02/exercicio01/exercicio01.iml" filepath="$PROJECT_DIR$/LP_Lista_02/exercicio01/exercicio01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP_Lista_02/exercicio02/exercicio02.iml" filepath="$PROJECT_DIR$/LP_Lista_02/exercicio02/exercicio02.iml" />
